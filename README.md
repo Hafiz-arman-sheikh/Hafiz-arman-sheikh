@@ -15,7 +15,7 @@ I'm currently learning **Front-End Web Development** and improving my skills thr
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,git,github,netlify,vercel" />
 </p>
 
 ---
