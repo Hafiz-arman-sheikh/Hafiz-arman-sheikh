@@ -6,10 +6,8 @@
 
 ## 👨‍💻 About Me
 
-I'm currently learning **Front-End Web Development** and improving my skills through practice, assignments, and personal projects.
-
-🎯 My goal is to become a professional **Front-End Developer** and create modern, responsive and interactive websites.
-
+Front-End Developer | HTML • CSS • JavaScript
+I build responsive and interactive web experiences and continuously improve my JavaScript skills through real-world projects.
 ---
 
 ## 🛠️ Technologies & Tools
