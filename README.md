@@ -1,86 +1,88 @@
-# 👋 Hi, I'm Arman
+# Hi, I'm Hafiz Arman Sheikh 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Front-End+Web+Development+Learner;HTML+%7C+CSS+%7C+JavaScript;Learning+DOM+%26+Modern+Web+Development;Building+My+Web+Development+Journey+%F0%9F%9A%80" alt="Typing SVG">
+### Front-End Web Developer | HTML • CSS • JavaScript
 
----
+I'm a Front-End Web Developer based in Karachi, Pakistan, focused on building responsive and interactive web experiences.
 
-## 👨‍💻 About Me
-
-Front-End Developer | HTML • CSS • JavaScript
-I build responsive and interactive web experiences and continuously improve my JavaScript skills through real-world projects.
----
-
-## 🛠️ Technologies & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,git,github,netlify,vercel" />
-</p>
+I enjoy turning ideas into functional websites and continuously improving my JavaScript and front-end development skills through practical projects.
 
 ---
 
-## ✨ Modern Web Features I'm Learning
+## 🚀 About Me
 
-* 📱 Responsive & Mobile-Friendly Design
-* 🎨 Modern UI/UX
-* 📐 CSS Flexbox & Grid
-* ⚡ JavaScript Interactivity
-* 🌐 DOM Manipulation
-* 📝 Form Validation
-* 🌙 Dark / Light Mode
-* 🔍 Search & Filter
-* 🎬 CSS Animations & Transitions
-* 🔄 Dynamic Content
+* 💻 Building responsive websites with **HTML, CSS & JavaScript**
+* ⚡ Working with **JavaScript DOM & interactive UI**
+* 📱 Focused on **responsive and mobile-friendly development**
+* 🌱 Currently strengthening my **JavaScript skills**
+* 🔨 Learning by building real-world projects
+* 🎯 Goal: Work as a professional Front-End Developer
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ Tech Stack
 
-```text
-HTML & CSS
-     ↓
-JavaScript
-     ↓
-DOM Manipulation
-     
- 
-     
-```
+
+
+
+
+
+\
+
+---
+
+## 📌 Featured Projects
+
+### ☕ Coffee Wala — Coffee Shop Website
+
+A responsive coffee shop website built with HTML, CSS and JavaScript featuring an interactive user interface, responsive navigation, animations and an order modal.
+
+**Technologies:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/Hafiz-arman-sheikh/coffee-shop-website)
+
+> More projects are currently being developed and will be added here.
+
+---
+
+## 💡 JavaScript Skills
+
+* Variables & Data Types
+* Functions
+* Arrays
+* Loops
+* Conditional Statements
+* DOM Manipulation
+* Event Handling
+* Form Handling
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170">
-</p>
+---
+
+## 🏆 GitHub Trophies
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak">
-</p>
+## 📈 Contribution Activity
 
 ---
 
-## 🎯 My Goals
+## 🤖 Development Tools
 
-🚀 Become a Professional Front-End Developer
-💻 Build Modern & Responsive Websites
-📚 Master JavaScript & DOM
-⚛️ Learn React.js
-🌎 Work on Real-World Projects
+I use modern development and AI-assisted tools to improve my workflow, research solutions, debug problems and learn new concepts.
+
+\
 
 ---
 
-## 💡 My Development Philosophy
+## 📫 Connect With Me
 
-> **"Learn → Practice → Build → Improve → Repeat 🚀"**
+* GitHub: [Hafiz-arman-sheikh](https://github.com/Hafiz-arman-sheikh)
+* LinkedIn: https://www.linkedin.com/in/hafiz-arman-sheikh-05b723186/
+* Portfolio: **Coming Soon**
 
 ---
 
-<p align="center">
-✨ Thanks for visiting my profile! ✨
-</p>
+### 💻 Build • Learn • Improve
