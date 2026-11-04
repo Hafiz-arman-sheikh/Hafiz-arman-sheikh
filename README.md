@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4CFF,50:2563EB,100:7DD3FC&height=210&section=header&text=Hafiz%20Arman%20Sheikh&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Web%20Development%20Student&descAlignY=60&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f14ef,50:2563EB,100:7DD3FC&height=210&section=header&text=Hafiz%20Arman%20Sheikh&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Web%20Development%20Student&descAlignY=60&descSize=16&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;I+build+clean+and+responsive+web+interfaces;Currently+learning+React+%26+TypeScript;Turning+ideas+into+real+projects" alt="Animated typing introduction" />
